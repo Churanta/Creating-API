@@ -23,7 +23,15 @@ This project is for GoGig using the following technologies:
 
 5. **Run the API** : Type the Command: `sls offline start  `
 
+## Importent
 
+Before running the project Create an .env sample file where the below data should be present 
+```
+ENDPOINT = "127.0.0.1"
+PASSWORD = "your_password"
+USERNAME = "root"
+DATABASE = "gogig"
+```
 
 
 ## Putting data into github
