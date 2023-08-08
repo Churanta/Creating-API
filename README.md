@@ -1,9 +1,9 @@
 # Gogig Web APP API
 
-This project is for GoGig using the following technologies:
-Frontend: REACT,TypeScript
-Backeend: Node.js,Serverless
-Server: AWS, Mysql Workbench
+This project is for GoGig using the following technologies: 
+- Frontend: REACT,TypeScript
+- Backeend: Node.js,Serverless
+- Server: AWS, Mysql Workbench
 
 
 
