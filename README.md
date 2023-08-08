@@ -1,5 +1,24 @@
 # Creating-API
 
+# Gogig Web APP API
+
+This project is for GoGig using the following technologies:
+Frontend: REACT
+Backeend: Node.js
+
+## Running the file 
+
+1. **Node.js**: Make sure you have Node.js installed. You can download it from the official website: [https://nodejs.org/](https://nodejs.org/)
+
+2. **Clone Repository**: Clone this repository to your local machine using: `github file location`
+
+
+3. **Navigate to Project Directory**: Change into the project directory: cd `file name`
+
+4. **Install Dependencies**: Install the project dependencies using npm (Node Package Manager): `npm install`
+
+
+
 ## Putting data into github
 
 ```
@@ -37,5 +56,4 @@
     "updatedAt": "2023-08-07 12:00:00"
 }
 ```
-
 ### link `http://localhost:5000/add-user`
